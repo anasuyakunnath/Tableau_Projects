@@ -1,5 +1,6 @@
 # Tableau_Projects
 Welcome to my Tableau Projects repository! Here, you'll find a collection of dynamic and interactive data visualizations crafted to provide valuable insights across various domains. These projects showcase my proficiency in leveraging Tableau's powerful features to transform raw data into compelling stories.
+https://public.tableau.com/app/profile/anasuya.kunnath/vizzes
 
 # 1. Electric Vehicle Data Analysis for US (2011-23)
 An in-depth analysis of electric vehicle adoption trends, market share, and geographic distribution. This dashboard highlights key metrics such as total vehicles, average electric range, and top manufacturers, providing a comprehensive overview of the EV market.
